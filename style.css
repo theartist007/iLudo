@@ -8,6 +8,16 @@
 .block  {
 	background-color: #cccccc;
 }
+#dieelement{
+position:relative;
+top: -100px;
+left: 20px;
+height:50px;
+width:200px;
+border:2px solid #ff6600;
+background-color: #cccccc;
+font-size: 20px;
+}
 #dialoguebox {
 	height: 200px;
 	width: 250px;
